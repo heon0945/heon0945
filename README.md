@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome%Heon%github&fontSize=70)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hi+there,+I'm+heon&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
