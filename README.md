@@ -1,1 +1,1 @@
-![poster](./tbbt.png)
+![poster](./tbbt.jpg)
