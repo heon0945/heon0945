@@ -4,7 +4,7 @@
 
 ![Heon's GitHub stats](https://github-readme-stats.vercel.app/api?username=heon0945&hide=prs&theme=shadow_green&show_icons=true)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=songhun8)](https://solved.ac/songhun829)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=songhun829)](https://solved.ac/songhun829)
 
 
 
