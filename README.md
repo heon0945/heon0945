@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradiant&customColorList=6&height=150&section=footer)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3&height=150&section=footer)
